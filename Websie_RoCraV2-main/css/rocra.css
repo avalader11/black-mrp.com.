@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css?family=Comfortaa&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Lalezar&display=swap");
+mark {
+    background-color: transparent;
+    color: rgb(100, 30, 199);
+    text-align: center;
+    font-family: "Lalezar", cursive;
+    font-size: 5rem;
+    line-height: 3.9rem;
+    text-transform: uppercase;
+    margin-bottom: 5rem;
+    font-size: 36px;
+}
